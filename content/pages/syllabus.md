@@ -1,0 +1,36 @@
+---
+content_type: page
+description: The syllabus contains an overview and grading criteria for the course.
+learning_resource_types: []
+ocw_type: CourseSection
+title: Syllabus
+uid: 07f1ff02-37a5-d618-10a3-b2871e5cda22
+---
+
+Course Meeting Times
+--------------------
+
+Lectures: 1 session / week, 3 hours / session
+
+Course Overview
+---------------
+
+These are exciting times for studies of the structure, composition, and evolution of Earth's deep interior. Seismic imaging, geodynamical modeling, and nobel gas analyses have provided spectacular new insight in the nature and scale of mantle convection. But despite the increased understanding and consensus within research groups there are significant outstanding issues, whose resolution requires cross-disciplinary study. For instance, geophysicists begin to concur on some form of whole mantle flow, whereas many geochemists favor a layered structure, with the lower and upper mantles separated from each other over long periods of geological time.
+
+Format
+------
+
+Each week faculty members of Harvard, Woods Hole Oceanographic Institution ({{% resource_link "47e19efe-a9a6-40c9-9ba9-9ce059033273" "WHOI" %}}), or MIT will lecture on the basic physics and chemistry pertinent to the topic of that particular week. These lectures will be followed by literature discussions under leadership of (groups of) students. In this way we aim to cover the basic science as well as digest a substantial fraction of the pertinent literature; the group structure stimulates student interaction and helps reducing communication problems that often complicate cross-disciplinary discussion.
+
+Students work together in small (less than 4 students) cross-disciplinary, cross-institutional teams in order to improve the understanding and communication of multidisciplinary topics. The groups participate in the following activities:
+
+*   Every week, one group is responsible for summarizing the faculty/staff lecture and the related discussions and for preparing material that can be posted on-line;  
+    
+*   Every week, two (other) groups have a reading assignment (one or more papers, depending on length and difficulty) on the topic of the faculty/staff lecture. The students read and discuss the material; the student closest to the topic at hand (e.g., geochemistry) often has to educate his/her fellow students (who may be more familar with concepts of, say, seismology, mineral physics, or geodynamics) - and they present a 15 min summary to the rest of the class.
+*   There is a mid-term assignment for the groups, which consists of summarizing the issues discussed during the first half of the semester and of working on a small research problem.
+*   The final assignment takes the form of writing a "research proposal." For this the students taking the class for credit need to reflect on the class, identify which problem are still open, and propose a research project that would address them.
+
+Grading
+-------
+
+Grades will depend on quality of the mid-term and final assignments, the group presentations, the lecture notes, and general participation in the discussions, and they are determined in a final meeting of all staff responsible for the class.
