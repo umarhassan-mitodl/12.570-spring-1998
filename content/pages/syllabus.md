@@ -20,7 +20,7 @@ These are exciting times for studies of the structure, composition, and evolutio
 Format
 ------
 
-Each week faculty members of Harvard, Woods Hole Oceanographic Institution ({{% resource_link "47e19efe-a9a6-40c9-9ba9-9ce059033273" "WHOI" %}}), or MIT will lecture on the basic physics and chemistry pertinent to the topic of that particular week. These lectures will be followed by literature discussions under leadership of (groups of) students. In this way we aim to cover the basic science as well as digest a substantial fraction of the pertinent literature; the group structure stimulates student interaction and helps reducing communication problems that often complicate cross-disciplinary discussion.
+Each week faculty members of Harvard, Woods Hole Oceanographic Institution ([WHOI](http://web.mit.edu/mit-whoi/www/)), or MIT will lecture on the basic physics and chemistry pertinent to the topic of that particular week. These lectures will be followed by literature discussions under leadership of (groups of) students. In this way we aim to cover the basic science as well as digest a substantial fraction of the pertinent literature; the group structure stimulates student interaction and helps reducing communication problems that often complicate cross-disciplinary discussion.
 
 Students work together in small (less than 4 students) cross-disciplinary, cross-institutional teams in order to improve the understanding and communication of multidisciplinary topics. The groups participate in the following activities:
 
